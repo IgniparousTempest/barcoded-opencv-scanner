@@ -1,0 +1,4 @@
+numpy==1.14.2
+pygame==1.9.3
+requests==2.18.4
+zbar-py==1.0.4
